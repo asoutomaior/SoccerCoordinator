@@ -37,8 +37,6 @@ var players = [player1, player2, player3, player4, player5, player6, player7, pl
 
 
 
-
-
 ///////////////// PART 2: ///////////////// 
 
 // Assign players to teams such that the number of experienced players on each team are the same
@@ -97,10 +95,8 @@ while player < players.count {
         
     }
     
-    
     player += 1
     
-
 }
 
 
@@ -282,9 +278,6 @@ print(raptorsFinalTotalHeight)
 
 
 
-
-
-
 //////////////// PART 3: /////////////////
 
 
@@ -358,53 +351,6 @@ while leagueTeam < league.count {
 // Display announcement letters for all team players
 
 announcementLetter
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
